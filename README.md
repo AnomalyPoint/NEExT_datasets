@@ -1,2 +1,2 @@
-# NEExT_datasets
+# NEExT Datasets
 Open-source datasets for using NEExT framework.
